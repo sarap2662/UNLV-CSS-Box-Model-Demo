@@ -1,0 +1,21 @@
+body{
+    background: white;
+}
+.container{
+    width: 70%;
+    background: teal;
+    padding: 2em;
+    border: 30px ridge #6bf3e5;
+    font-size: 30px;
+    margin: 5em  1em 0 1em;
+    margin: 5em auto 0 auto;
+}
+
+.container div {
+    background: yellow;
+    margin-top: 1rem;
+    padding: 1rem;
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
